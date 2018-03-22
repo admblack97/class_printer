@@ -11,6 +11,6 @@ package class_printer;
  */
 public class printerAksi {
     public static void main(String[] args) {
-        
+        printer Adam = new printer();
     }
 }
