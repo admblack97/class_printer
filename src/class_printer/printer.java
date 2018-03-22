@@ -27,6 +27,6 @@ public class printer {
         System.out.println("Konektivitas printer   : "+konek);
         System.out.println("Fitur tambahan printer : "+fitur);
         System.out.println("Warna printer          : "+warna);
-        System.out.println("Jenis tinta printer    : "+tinta);
+        System.out.println("Jenis tinta printer    : "+tinta+"\n");
     }
 }
