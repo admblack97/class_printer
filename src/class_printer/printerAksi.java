@@ -21,5 +21,7 @@ public class printerAksi {
         Adam.warna="Hitam.";
         Adam.tinta="CMYK. ";
         
+        Adam.CetakKertas();
+        
     }
 }
